@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: APTX
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -16,15 +16,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+footer-links:1
+  dribbble:1
+  email:1
+  facebook:1
+  flickr:1
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  instagram:1
+  linkedin:1
+  pinterest:1
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
